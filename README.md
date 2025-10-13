@@ -46,11 +46,16 @@ O banco combina inovação, exclusividade e experiência personalizada, tornando
 
 Descrição da imagem: Área VIP Santander Select, especial para convidados e correntistas Select, que reserva uma visão privilegiada do palco do Rio Gastronomia!
 
+
 *Vem ser Santander! Vem ser cliente Select.* 
 
 *Te esperamos. Começa em você. Começa agora!*
 
+
+
 Com carinho,
+
+
 
 Leonardo Campinas Pinto
 
