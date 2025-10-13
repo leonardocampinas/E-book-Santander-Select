@@ -40,7 +40,9 @@ Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais
 O Santander Select se destaca não apenas por seus produtos financeiros, mas por entender e valorizar o cliente alta renda.
 O banco combina inovação, exclusividade e experiência personalizada, tornando-se uma referência em relacionamento, confiança e sofisticação no mercado bancário brasileiro.
 
-<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/eb8d5a16-ce12-4cba-9c8e-f7017be98380" />
+
+<img width="2048" height="1365" alt="image" src="https://github.com/user-attachments/assets/994bf9df-add8-4856-a939-e1559b39cf0d" />
+
 
 
 
