@@ -1,3 +1,5 @@
+<img width="1280" height="320" alt="image" src="https://github.com/user-attachments/assets/0e8065ca-ff5b-47b5-8ee3-b115622101c3" />
+
 # **📘 Santander Select: Experiência de Alta Renda**
 
 
@@ -37,5 +39,8 @@ Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais
 
 O Santander Select se destaca não apenas por seus produtos financeiros, mas por entender e valorizar o cliente alta renda.
 O banco combina inovação, exclusividade e experiência personalizada, tornando-se uma referência em relacionamento, confiança e sofisticação no mercado bancário brasileiro.
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/eb8d5a16-ce12-4cba-9c8e-f7017be98380" />
+
 
 
