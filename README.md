@@ -30,4 +30,5 @@ Notion / Canva / ferramentas de design – organização, diagramação e ediç�
 
 Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais estratégicos de marketing e experiência do cliente, integrando insights, narrativa, design e posicionamento de marca.
 
-Acesse o ebook completo
+[Acesse o ebook completo](https://wonderful-addition-a80.notion.site/Banking-Experience-AI-Podcast-27e4581312d780118e91f1ead4f8c74b)
+
