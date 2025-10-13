@@ -33,4 +33,9 @@ Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais
 
 [Alta Renda em Transformação: Como Conquistar o Novo Cliente da Exclusividade](https://github.com/leonardocampinas/Ebook-Santander-Select/blob/main/Ebook%20-%20Santander%20Select.pdf)
 
+# 🏦 Sobre o Santander
+
+O Santander Select se destaca não apenas por seus produtos financeiros, mas por entender e valorizar o cliente alta renda.
+O banco combina inovação, exclusividade e experiência personalizada, tornando-se uma referência em relacionamento, confiança e sofisticação no mercado bancário brasileiro.
+
 
