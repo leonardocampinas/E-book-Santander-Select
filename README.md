@@ -45,4 +45,8 @@ O banco combina inovação, exclusividade e experiência personalizada, tornando
 
 
 
+Área VIP Santander Select, especial para convidados e correntistas Select, que reserva uma visão privilegiada do palco do Rio Gastronomia!
+
+Vem ser Santander! Vem ser cliente Select. Começa em você. Começa agora!
+
 
