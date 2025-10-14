@@ -37,7 +37,7 @@ Metodologia: explicação de como a IA foi utilizada em cada etapa do projeto.
 
 Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais estratégicos de marketing e experiência do cliente, integrando insights, narrativa, design e posicionamento de marca.
 
-## 📘 Acesse o E-book: Descubra insights exclusivos sobre Alta Renda
+## 📘 Acesse o E-book: Descubra insights exclusivos sobre Alta Renda:
 
 [Leia aqui](https://drive.google.com/file/d/1dsO8a2I4JJv7ax1WBsgWJ3R_9ECPz6QJ/view?usp=drive_link)
 
