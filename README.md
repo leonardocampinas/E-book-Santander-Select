@@ -61,7 +61,7 @@ Te esperamos. Começa em você. Começa agora!
 
 *Com carinho,* 
 
-*Leonardo Campinas Pinto*
+*Leonardo Campinas Pinto, CEA, PQOᴮ³*
 
 *Engenheiro de Produção, Especialista em Gestão de Pessoas e Bancário*
 
