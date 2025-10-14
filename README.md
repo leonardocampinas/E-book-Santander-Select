@@ -7,7 +7,11 @@ Este repositório reúne um projeto prático desenvolvido para explorar como a I
 
 ## 🎯 Ideia Central:
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/45b645af-d709-49cf-9e85-b1456e0e05a5" width="500" height="500" alt="Imagem do projeto">
+
 [*“O cliente alta renda não busca um banco. Ele busca uma marca que represente quem ele é.”*](https://www.santander.com.br/banco/conta-corrente/select)
+</div>
 
 O e-book propõe que o Santander Select vá além de oferecer produtos financeiros, posicionando-se como símbolo de pertencimento, estilo e sofisticação, capaz de conquistar, engajar e reter clientes por meio de experiências exclusivas.
 
@@ -35,7 +39,7 @@ Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais
 
 [Alta Renda em Transformação: Como Conquistar o Novo Cliente da Exclusividade](https://drive.google.com/file/d/1dsO8a2I4JJv7ax1WBsgWJ3R_9ECPz6QJ/view?usp=drive_link)
 
-## 🏦 Sobre o Santander:
+## 🏦 Sobre o Santander Select:
 
 O Santander Select se destaca não apenas por seus produtos financeiros, mas por entender e valorizar o cliente alta renda.
 O banco combina inovação, exclusividade e experiência personalizada, tornando-se uma referência em relacionamento, confiança e sofisticação no mercado bancário brasileiro.
@@ -47,20 +51,19 @@ O banco combina inovação, exclusividade e experiência personalizada, tornando
 Descrição da imagem: Área VIP Santander Select, especial para convidados e correntistas Select, que reserva uma visão privilegiada do palco do Rio Gastronomia!
 
 
-*Vem ser Santander! Vem ser cliente Select.* 
+Vem ser Santander! Vem ser cliente Select. 
 
-*Te esperamos. Começa em você. Começa agora!*
-
-
-
-*Com carinho,*
+Te esperamos. Começa em você. Começa agora!
 
 
+
+*Com carinho,* 
 
 *Leonardo Campinas Pinto*
 
-**Contato do desenvolvedor:** 
+*Engenheiro de Produção, Especialista em Gestão de Pessoas e Bancário*
 
-[Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
+## **🤝 Contato do desenvolvedor:** 
 
+[🌐 Linkedln](https://www.linkedin.com/in/leonardo-campinas/)
 
