@@ -33,7 +33,7 @@ Metodologia: explicação de como a IA foi utilizada em cada etapa do projeto.
 
 Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais estratégicos de marketing e experiência do cliente, integrando insights, narrativa, design e posicionamento de marca.
 
-[Alta Renda em Transformação: Como Conquistar o Novo Cliente da Exclusividade](https://github.com/leonardocampinas/Ebook-Santander-Select/blob/main/Ebook%20-%20Santander%20Select.pdf)
+[Alta Renda em Transformação: Como Conquistar o Novo Cliente da Exclusividade](https://drive.google.com/file/d/1dsO8a2I4JJv7ax1WBsgWJ3R_9ECPz6QJ/view?usp=drive_link)
 
 ## 🏦 Sobre o Santander:
 
