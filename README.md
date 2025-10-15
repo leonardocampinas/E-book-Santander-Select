@@ -39,7 +39,7 @@ Demonstrar, de forma prática, como a IA pode apoiar a construção de materiais
 
 ## 📘 Acesse o E-book: Descubra insights exclusivos sobre Alta Renda:
 
-[Leia aqui](https://drive.google.com/file/d/1dsO8a2I4JJv7ax1WBsgWJ3R_9ECPz6QJ/view?usp=drive_link)
+[📖 Leia aqui](https://drive.google.com/file/d/1dsO8a2I4JJv7ax1WBsgWJ3R_9ECPz6QJ/view?usp=drive_link)
 
 ## 🏦 Sobre o Santander Select:
 
